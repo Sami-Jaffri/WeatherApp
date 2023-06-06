@@ -51,4 +51,4 @@ let weather = {
           }
         });
       
-      weather.fetchWeather("Lethbridge");
+      weather.fetchWeather("Calgary");
